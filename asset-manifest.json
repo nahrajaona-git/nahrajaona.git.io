@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nahrajaonna.git.io/static/css/main.b9ddc759.css",
-    "main.js": "/nahrajaonna.git.io/static/js/main.2917c3bd.js",
-    "static/js/787.ecf4f424.chunk.js": "/nahrajaonna.git.io/static/js/787.ecf4f424.chunk.js",
-    "static/media/download.jpg": "/nahrajaonna.git.io/static/media/download.625dde41902cd4ce07ec.jpg",
-    "static/media/pdpPNG2.png": "/nahrajaonna.git.io/static/media/pdpPNG2.0cda969172f6eb7a8d96.png",
-    "static/media/portfolio-png.png": "/nahrajaonna.git.io/static/media/portfolio-png.573c27784af0ec508abd.png",
-    "static/media/babyfoot.png": "/nahrajaonna.git.io/static/media/babyfoot.5803d61df6522744e7c1.png",
-    "static/media/basket2.png": "/nahrajaonna.git.io/static/media/basket2.f4bd8729f3c646427451.png",
-    "static/media/foot.png": "/nahrajaonna.git.io/static/media/foot.01833f82187c5870d55e.png",
-    "index.html": "/nahrajaonna.git.io/index.html",
-    "main.b9ddc759.css.map": "/nahrajaonna.git.io/static/css/main.b9ddc759.css.map",
-    "main.2917c3bd.js.map": "/nahrajaonna.git.io/static/js/main.2917c3bd.js.map",
-    "787.ecf4f424.chunk.js.map": "/nahrajaonna.git.io/static/js/787.ecf4f424.chunk.js.map"
+    "main.css": "/nahrajaona.git.io/static/css/main.721a7890.css",
+    "main.js": "/nahrajaona.git.io/static/js/main.02fc8a14.js",
+    "static/js/787.ecf4f424.chunk.js": "/nahrajaona.git.io/static/js/787.ecf4f424.chunk.js",
+    "static/media/download.jpg": "/nahrajaona.git.io/static/media/download.625dde41902cd4ce07ec.jpg",
+    "static/media/pdpPNG2.png": "/nahrajaona.git.io/static/media/pdpPNG2.0cda969172f6eb7a8d96.png",
+    "static/media/portfolio-png.png": "/nahrajaona.git.io/static/media/portfolio-png.573c27784af0ec508abd.png",
+    "static/media/babyfoot.png": "/nahrajaona.git.io/static/media/babyfoot.5803d61df6522744e7c1.png",
+    "static/media/basket2.png": "/nahrajaona.git.io/static/media/basket2.f4bd8729f3c646427451.png",
+    "static/media/foot.png": "/nahrajaona.git.io/static/media/foot.01833f82187c5870d55e.png",
+    "index.html": "/nahrajaona.git.io/index.html",
+    "main.721a7890.css.map": "/nahrajaona.git.io/static/css/main.721a7890.css.map",
+    "main.02fc8a14.js.map": "/nahrajaona.git.io/static/js/main.02fc8a14.js.map",
+    "787.ecf4f424.chunk.js.map": "/nahrajaona.git.io/static/js/787.ecf4f424.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9ddc759.css",
-    "static/js/main.2917c3bd.js"
+    "static/css/main.721a7890.css",
+    "static/js/main.02fc8a14.js"
   ]
 }
